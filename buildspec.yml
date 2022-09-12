@@ -23,5 +23,6 @@ phases:
 artifacts:
   files:
     - "**/*"
+    - app/build/outputs/apk/app-debug.apk
   discard-paths: no
   base-directory: dist
